@@ -1,5 +1,8 @@
 venv
+.venv
 venv1
+uv.lock
+*/uv.lock
 .vs
 .vscode
 models/*
