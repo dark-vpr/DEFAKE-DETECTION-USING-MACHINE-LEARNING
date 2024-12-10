@@ -2,7 +2,7 @@ venv
 .venv
 venv1
 
-__pycache__/
+__pycache__
 
 uv.lock
 .vs
