@@ -1,11 +1,13 @@
-*/venv
-*/.venv
-*/venv1
+venv
+.venv
+venv1
 
+project_settings/__pycache__/
+ml_app/__pycache__/
 
-*/uv.lock
-*/.vs
-*/.vscode
+uv.lock
+.vs
+.vscode/
 models/*
 !models/Readme.txt
 uploaded_images/*
