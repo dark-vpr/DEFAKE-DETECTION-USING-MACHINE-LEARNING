@@ -2,8 +2,7 @@ venv
 .venv
 venv1
 
-project_settings/__pycache__/
-ml_app/__pycache__/
+__pycache__/
 
 uv.lock
 .vs
