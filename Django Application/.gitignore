@@ -1,10 +1,11 @@
-venv
-.venv
-venv1
-uv.lock
+*/venv
+*/.venv
+*/venv1
+
+
 */uv.lock
-.vs
-.vscode
+*/.vs
+*/.vscode
 models/*
 !models/Readme.txt
 uploaded_images/*
